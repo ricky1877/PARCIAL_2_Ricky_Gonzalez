@@ -1,1 +1,0 @@
-# PARCIAL_2_Ricky_Gonzalez
