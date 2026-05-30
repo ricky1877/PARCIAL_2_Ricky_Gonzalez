@@ -1,2 +1,5 @@
 flask
 pytest
+pytest-cov
+bandit
+pip-audit
